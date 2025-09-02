@@ -1,6 +1,6 @@
 # HR Analytics Dashboard – FP20 Analytics Challenge 30  
 
-Dashboard Link Coming Soon...
+[Dashboard Link](https://app.powerbi.com/links/RixVHxo72H?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare)
 
 This repository contains my submission for **FP20 Analytics Challenge 30 – HR Analytics Challenge**, where the goal was to design an interactive HR dashboard to analyze workforce insights, performance, and employee metrics.  
 
