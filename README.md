@@ -1,4 +1,4 @@
-# HR Analytics Dashboard – FP20 Analytics Challenge 30  
+# Employee Performance Dashboard – FP20 Analytics Challenge 30  
 
 [Dashboard Link](https://app.powerbi.com/links/RixVHxo72H?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare)
 
