@@ -127,3 +127,9 @@ Page 2: Employee Performance:
 Page 3: Employee Matrics:
 
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/631fd25d-6d04-4c1e-8b40-33808c653f69" />
+
+## 📌 Data Model
+
+<img width="751" height="678" alt="image" src="https://github.com/user-attachments/assets/6d2a75ff-cfbb-4fe3-8660-3248a9827de3" />
+
+
