@@ -1,4 +1,4 @@
-# Employee Performance Dashboard – FP20 Analytics Challenge 30  
+# Employee Performance Dashboard – FP20 Analytics Challenge 30 x ZoomCharts Mini Challenge
 
 [Dashboard Link](https://app.powerbi.com/links/RixVHxo72H?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare)
 
@@ -118,15 +118,25 @@ Page 1: Employee Demographics Overview:
 
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/19f5e28b-fde6-4d9a-a685-252e6a61b570" />
 
+ZoomCharts
+<img width="1613" height="905" alt="image" src="https://github.com/user-attachments/assets/b08b6ff9-be82-4fa5-8be6-732d92cd6365" />
+
 ---
 Page 2: Employee Performance:
 
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/666abc65-a5a9-47e0-a81a-7d8e59ac0caa" />
 
+ZoomCharts
+<img width="1612" height="905" alt="image" src="https://github.com/user-attachments/assets/6ca1353f-59c6-455c-bc29-26cbe9fc49d0" />
+
 ---
 Page 3: Employee Matrics:
 
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/631fd25d-6d04-4c1e-8b40-33808c653f69" />
+
+ZoomCharts
+<img width="1613" height="904" alt="image" src="https://github.com/user-attachments/assets/6beb8ff4-7814-4193-8b51-ad08213cdf80" />
+
 
 ## 📌 Data Model
 
