@@ -1,6 +1,7 @@
 # Employee Performance Dashboard – FP20 Analytics Challenge 30 x ZoomCharts Mini Challenge
 
-[Dashboard Link](https://app.powerbi.com/links/RixVHxo72H?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare)
+[Onyx Dashboard Link](https://app.powerbi.com/links/RixVHxo72H?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare)
+[ZoomCharts Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZDdjNjJkNDgtMmFiZi00NDdjLTgyMTUtYzk5YTFjNThkMjFmIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 This repository contains my submission for **FP20 Analytics Challenge 30 – HR Analytics Challenge**, where the goal was to design an interactive HR dashboard to analyze workforce insights, performance, and employee metrics.  
 
